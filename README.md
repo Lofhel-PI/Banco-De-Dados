@@ -1,4 +1,4 @@
-# Banco de Dados - LEFHEL
+# Banco de Dados - LOFHEL
 
 Este repositório contém o esquema do banco de dados utilizado no projeto **LOFHEL**, um sistema de monitoramento da umidade do solo para o cultivo de morangos.  
 
